@@ -1,2 +1,3 @@
 # deep-farsi
-deep persian handwriting 
+deep persian handwritten numbers
+
